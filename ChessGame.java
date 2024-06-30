@@ -285,6 +285,6 @@ class HGPanel extends JPanel implements MouseListener {
     }
 
     public void horseLogic() {
-
+        System.out.println("What?");
     }
 }
