@@ -282,7 +282,6 @@ class HGPanel extends JPanel implements MouseListener {
 
     public void bishopLogic() {
 
-        System.out.println();
     }
 
     public void horseLogic() {
